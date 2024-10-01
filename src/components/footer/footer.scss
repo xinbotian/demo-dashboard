@@ -1,0 +1,17 @@
+.footer{
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+  span{
+
+    &:first-child{
+      font-weight: bold;
+    }
+
+    &:last-child{
+      font-size: 14px;
+    }
+  }
+}
