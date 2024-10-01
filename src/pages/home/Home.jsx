@@ -1,10 +1,9 @@
 import BarChartBox from "../../components/barChartBox/BarChartBox";
 import BigChartBox from "../../components/bigChartBox/BigChartBox";
+import LineBarAreaComposedBox from "../../components/lineBarAreaComposedBox/LineBarAreaComposedBox";
 import ChartBox from "../../components/chartBox/ChartBox";
-import LineBarAreaComposedBox from "../../components/lineBarAreaComposedBox/lineBarAreaComposedBox";
 import BandedChart from "../../components/bandedChart/BandedChart";
 import PieChartBox from "../../components/pieCartBox/PieChartBox";
-import TwoLevelPieChart from "../../components/SpecifiedDomainRadarChart/SpecifiedDomainRadarChart";
 import SimpleTreemap from "../../components/treemap/Treemap";
 import {
   chartBoxConversion,
