@@ -1,10 +1,9 @@
 
 import "./barChartBox.scss";
-import React, { PureComponent } from 'react';
+
 import {
   BarChart,
   Bar,
-  Cell,
   XAxis,
   YAxis,
   CartesianGrid,

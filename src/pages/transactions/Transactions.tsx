@@ -51,7 +51,7 @@ const columns: GridColDef[] = [
 ];
 
 const Transactions = () => {
-  const [open, setOpen] = useState(false);
+  const [] = useState(false);
 
   // TEST THE API
 

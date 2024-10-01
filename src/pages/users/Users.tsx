@@ -54,7 +54,7 @@ const columns: GridColDef[] = [
 ];
 
 const Users = () => {
-  const [open, setOpen] = useState(false);
+  const [] = useState(false);
 
   // TEST THE API
 

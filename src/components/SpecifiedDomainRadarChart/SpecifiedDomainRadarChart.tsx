@@ -1,4 +1,3 @@
-import React, { PureComponent } from 'react';
 import { Radar, RadarChart, PolarGrid, Legend, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer } from 'recharts';
 import "./specifiedDomainRadarChart.scss";
 

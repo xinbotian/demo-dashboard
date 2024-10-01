@@ -1,4 +1,3 @@
-import React, { PureComponent } from 'react';
 import {
   ComposedChart,
   Line,
@@ -51,7 +50,7 @@ import {
       AAVE: 460,
     },
     {
-      name: 'Jun',
+      name: '',
       Uniswap: 1400,
       PancakeSwap: 680,
       Sushiswap: 1700,
